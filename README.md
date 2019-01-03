@@ -7,5 +7,5 @@
 ### Recommendation Graph for "The Doors", "Red Hot Chilli Pepper" & "Mad Caddies"
 <img style="float:right;" src="AudioREC/images/graph-my.png.png" width=600 height=600>
 
-### Top 10 predictions for "The Doors"
+### Top 20 predictions for "The Doors"
 <img style="float:left;" src="AudioREC/images/the doors-k20-test2.png" width=600 height=300 align='center'>
